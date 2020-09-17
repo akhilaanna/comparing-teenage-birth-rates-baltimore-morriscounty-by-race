@@ -9,7 +9,7 @@ This led to the business question: How do the teenage birth rates between Baltim
 
 I downloaded data from https://www.opportunityatlas.org/ to conduct my analysis – 8 workbooks, each specific for the 4 races in the 2 locations. 
 
-
+![image](https://user-images.githubusercontent.com/70545150/93415855-76202600-f872-11ea-94cd-03f8ac3a7d04.png)
 
 
 
