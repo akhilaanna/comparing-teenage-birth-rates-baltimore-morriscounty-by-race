@@ -1,4 +1,5 @@
-# teenage-mortality-rates-baltimore-morriscounty-by-race
+# Comparing Teenage Birth Rates between Baltimore, MD and Morris County, NJ by Race 
+
 Baltimore City, MD is a metropolitan area in Maryland. While some neighborhoods are primarily wealthy, others struggle economically. This affects many aspects of the city's residents' lives, including their access to education, housing and food security, and more.
 
 In contrast, Morris County, NJ is a suburban area mostly comprised of people who have reached relatively high socioeconomic statuses. It has been named one of New Jersey's most affluent counties regularly. 
