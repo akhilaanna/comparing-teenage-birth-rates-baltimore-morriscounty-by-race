@@ -20,9 +20,9 @@ I downloaded data from [Opportunity Atlas](https://www.opportunityatlas.org/) to
 
 The dataset showed the teenage birth rates for each location per tract, but the visualizations with all of the tracts looked very cluttered. For simplication, these visualizations depict the average teenage birth rates for each race in Baltimore and Morris County. 
 
-![image](https://user-images.githubusercontent.com/70545150/93415855-76202600-f872-11ea-94cd-03f8ac3a7d04.png)
+![image](bmore-new-chart.png)
 
-![image](https://user-images.githubusercontent.com/70545150/93415933-a36cd400-f872-11ea-8418-38a38063de70.png)
+![image](morris-new-chart.png)
 
 # Data Interpretation
 
