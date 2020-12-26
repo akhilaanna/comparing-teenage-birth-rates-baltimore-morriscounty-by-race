@@ -14,7 +14,7 @@ This led to the business question: How do the teenage birth rates between Baltim
 
 ## Data Source 
 
-I downloaded data from https://www.opportunityatlas.org/ to conduct my analysis – 8 workbooks, each specific for the 4 races in the 2 locations. 
+I downloaded data from [Opportunity Atlas](https://www.opportunityatlas.org/) to conduct my analysis. 
 
 # Data Visualizations 
 
