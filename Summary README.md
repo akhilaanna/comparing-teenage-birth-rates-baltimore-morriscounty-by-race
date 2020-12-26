@@ -22,7 +22,7 @@ The dataset showed the teenage birth rates for each location per tract, but the 
 
 ![image](bmore-new-chart.png)
 
-![image]
+![image](morris-new-chart.png)
 
 # Data Interpretation
 
